@@ -12,6 +12,6 @@
 
     <address>
         <strong>Podpora:</strong>   <a href="mailto:Support@example.com">podpora@krasovic.eu</a><br />
-        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@krasovic.eu</a>
+        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">marketing@krasovic.eu</a>
     </address>
 </asp:Content>
