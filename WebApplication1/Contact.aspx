@@ -7,7 +7,7 @@
         Cesta Radomeljske čete 25<br />
         1235 Radomlje<br />
         <abbr title="Phone">P:</abbr>
-        031369335
+        031-369-335
     </address>
 
     <address>
